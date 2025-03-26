@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=phillip-che.visitor-badge">
 
-<h2 align="center">:waving: Hi there, I'm Sean!</h2>
+<h2 align="center">👋 Hi there, I'm Sean!</h2>
 
 <h5 align="center">
 
