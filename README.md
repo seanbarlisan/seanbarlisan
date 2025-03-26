@@ -13,7 +13,7 @@
 - 🎓 <b>I graduated from ... </b></br>
       New Jersey Institute in Technology with a Computer Engineering Bachelor of Science Degree.
 - 🧪 <b>I'm currently working on ... </b></br> 
-      small automation Python scripts and HomeLab Networking.
+      Small automation Python scripts and HomeLab Networking.
 - 🧠 <b>I'm currently learning about ... </b></br>
       Networking and Front-End Tools
 - 🔎 <b>I’m currently looking for ... </b></br>
