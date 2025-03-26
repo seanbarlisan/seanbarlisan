@@ -1,16 +1,30 @@
-## Hi there 👋
+<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=phillip-che.visitor-badge">
 
-<!--
-**seanbarlisan/seanbarlisan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">:waving: Hi there, I'm Sean!</h2>
 
-Here are some ideas to get you started:
+<h5 align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a align="center" href="https://www.linkedin.com/in/seanbarlisan/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"> LinkedIn</a> •
+<a align="center" href="https://www.instagram.com/sean.barlisan/" title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"> Instagram</a> •
+
+</h5>
+<img src="https://media1.tenor.com/m/FPsODnFH-dEAAAAd/typing-fast.gif" alt="side Image" align="right" width="200"   height="200" />
+
+- 🎓 <b>I graduated from ... </b></br>
+      New Jersey Institute in Technology with a Computer Engineering Bachelor of Science Degree.
+- 🧪 <b>I'm currently working on ... </b></br> 
+      small automation Python scripts and HomeLab Networking.
+- 🧠 <b>I'm currently learning about ... </b></br>
+      Networking and Front-End Tools
+- 🔎 <b>I’m currently looking for ... </b></br>
+      Networking and System Operations positions.
+- ⚡ <b>Fun facts:</b> </br>
+      I like fixing and repairing computers, playing story-mode video games, and thrifting.
+
+<h2 align="center">:wrench: Languages and Tools</h2>
+<p align="center"> 
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="opencv" width="40" height="40"/></code>
+</p>
