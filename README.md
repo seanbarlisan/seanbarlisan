@@ -13,13 +13,13 @@
 - 🎓 <b>I graduated from ... </b></br>
       New Jersey Institute in Technology with a Computer Engineering Bachelor of Science Degree.
 - 🧪 <b>I'm currently working on ... </b></br> 
-      Small automation Python scripts and HomeLab Networking.
+      System design and HomeLab Experimentation.
 - 🧠 <b>I'm currently learning about ... </b></br>
-      Networking and Front-End Tools
+      Networking and Deployment Pipelines
 - 🔎 <b>I’m currently looking for ... </b></br>
-      Networking and System Operations positions.
+      Networking, Automation, and System Operations positions.
 - ⚡ <b>Fun facts:</b> </br>
-      I like fixing and repairing computers, playing story-mode video games, and thrifting.
+      I like fixing and repairing computers, watch collections, playing story-mode video games, and thrifting.
 
 <h2 align="center">:wrench: Languages and Tools</h2>
 <p align="center"> 
