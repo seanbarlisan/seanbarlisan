@@ -15,9 +15,9 @@
 - 🧪 <b>I'm currently working on ... </b></br> 
       System design and HomeLab Experimentation.
 - 🧠 <b>I'm currently learning about ... </b></br>
-      Networking and Deployment Pipelines
+      Networking and Cloud Development
 - 🔎 <b>I’m currently looking for ... </b></br>
-      Networking, Automation, and System Operations positions.
+      Networking, Automation, and DevSecOps positions.
 - ⚡ <b>Fun facts:</b> </br>
       I like fixing and repairing computers, watch collections, playing story-mode video games, and thrifting.
 
